@@ -15,3 +15,13 @@ The following options are available:
 - no import from the grid
 - no load shedding allowed
 
+## Quick setup
+
+Poetry is used to manage dependencies. Once installed run:
+
+```
+poetry install
+```
+
+Then run python notebook.
+
